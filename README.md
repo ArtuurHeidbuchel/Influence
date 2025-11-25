@@ -1,10 +1,10 @@
-# My KDE Theme
+# Influence KDE-theme
 
 ## Installation
 
 ### Install the theme:
 ```bash
-cp -r plasma-theme ~/.local/share/plasma/desktoptheme/my-theme-name
+cp -r plasma-theme ~/.local/share/plasma/desktoptheme/influence
 ```
 
 ### Apply panel configuration:
@@ -14,4 +14,4 @@ plasmashell --replace &
 ```
 
 ### Apply the theme:
-Go to System Settings → Appearance → Plasma Style → Select "My Theme Name"
+Go to System Settings → Appearance → Plasma Style → Select "influence"
