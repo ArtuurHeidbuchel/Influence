@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "artuur.heidbuchel@protonmail.com",
+                "Name": "Artuur Heidbuchel"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "My personal plasma theme that i use everywhere",
+        "Id": "influence",
+        "Name": "Influence",
+        "Version": "0.1",
+        "Website": ""
+    }
+}
